@@ -1,13 +1,4 @@
-<html>
- <head>
-  <meta charset="utf-8">
-  <title>Заголовки</title>
-  <style> 
-div{background-color: gren;}
+/*div{background-color: gren;}
 .clas_div1{background-color: pink;}
-#menu{background-color: white;}
-  </style>
- </head>
- <body> 
- </body>
-</html>
+#menu{background-color: white;}*/
+body{background-color: grey;}
